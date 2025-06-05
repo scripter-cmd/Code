@@ -16,6 +16,6 @@ public class code1672 {
         }
         System.out.println(max);
 
-        
+         
     }
 }

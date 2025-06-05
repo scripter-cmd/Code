@@ -7,7 +7,7 @@ public class code3190 {
             if((nums[i]+1)%3==0||(nums[i]-1)%3==0)
             {    count++;
             }
-            
+             
         }
         System.out.println(count);
     }
